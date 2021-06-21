@@ -1,4 +1,14 @@
+
 .style-title {
-    background-color: aquamarine;
-    color: blueviolet;
+    color: black;
+    font-weight: bold; 
+    font-family: Arial, Helvetica, sans-serif;
+} 
+body {
+    background-color:yellowgreen;
 }
+.paragraf-style {
+    font-size: medium; 
+    text-align:justify; 
+    font-family: Arial, Helvetica, sans-serif;
+}  
